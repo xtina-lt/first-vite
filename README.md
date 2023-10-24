@@ -7,7 +7,7 @@
 ### Purpose:
 
 - Created a new React project using `Vite`.
-- Changedthe `App.jsx` component.
+- Changed the `App.jsx` component.
 - Adjusted the CSS by changing `App.css` and using the JSX attribute `className`.
 
 ![Untitled](./src/assets/Untitled.png)
