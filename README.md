@@ -1,8 +1,29 @@
-# React + Vite
+# First React with JSX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Subjects**: JSX (syntax exension for JS), Vite(building tool) Project, useState, and ternary operators.
 
-Currently, two official plugins are available:
+**Section**: React.js, **Type**: Core
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Purpose:
+
+- Created a new React project using `Vite`.
+- Changedthe `App.jsx` component.
+- Adjusted the CSS by changing `App.css` and using the JSX attribute `className`.
+
+![Untitled](./src/assets/Untitled.png)
+
+---
+
+- [x]  Use the terminal to generate a Vite-scaffolded React application.
+
+![Untitled](./src/assets/Untitled%201.png)
+
+- [x]  Use JSX to display "Hello Dojo"
+
+![Untitled](./src/assets/Untitled%202.png)
+
+- [x]  Use JSX to display a todo list🔮
+
+… Yea that got boring. Turned my list into quotes and sifted through them with on click 🔮
+
+![Untitled](./src/assets/Untitled.gif)
